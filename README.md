@@ -31,3 +31,8 @@ At the end of the code, there is HTML code that defines the user interface. It i
 Additionally, the page includes external CSS libraries and JavaScript scripts for styling and interface functionality.
 
 All dependencies are linked externally, so the code can be easily run on any PHP server with internet access.
+
+
+#Demo 
+![Wideo Tiny Notepad](https://main.gigasoft.com.pl/demo_TinyNotepad.mp4)
+
