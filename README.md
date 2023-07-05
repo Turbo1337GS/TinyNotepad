@@ -33,6 +33,6 @@ Additionally, the page includes external CSS libraries and JavaScript scripts fo
 All dependencies are linked externally, so the code can be easily run on any PHP server with internet access.
 
 
-#Demo 
-![Wideo Tiny Notepad](https://main.gigasoft.com.pl/demo_TinyNotepad.mp4)
+# Demo 
 
+[![Watch the video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNNCSrIYc3mbtExlD3GUmCph0_UPqE0Z1cEw&usqp=CAU)](https://main.gigasoft.com.pl/demo_TinyNotepad.mp4)
